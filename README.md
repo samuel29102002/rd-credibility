@@ -130,6 +130,4 @@ See [docs/methodology.md](docs/methodology.md) for:
 
 ---
 
-## License
 
-MIT © RD Credibility Team
