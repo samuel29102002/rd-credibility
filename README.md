@@ -1,7 +1,4 @@
-# rd-credibility
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 
 **Credibility diagnostics and replication audits for regression discontinuity designs.**
 
